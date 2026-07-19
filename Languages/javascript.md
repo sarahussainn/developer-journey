@@ -1,57 +1,308 @@
 # JavaScript
 
-## 📖 Overview
-
-JavaScript is the programming language that brings websites to life. It allows me to build interactive user interfaces and is the foundation for frameworks like React and Next.js.
-
----
-
-## 🎯 Current Level
-
-🟡 Beginner → Intermediate
+> **Status:** 🟡 Learning  
+> **Started Learning:** 2025  
+> **Current Level:** ⭐⭐☆☆☆ (Beginner → Intermediate)
 
 ---
 
-## ✅ Concepts I Know
+# 📖 What is JavaScript?
+
+JavaScript is a high-level, interpreted programming language that makes websites interactive and dynamic. Along with HTML and CSS, it is one of the three core technologies of web development.
+
+JavaScript allows developers to manipulate web pages, respond to user actions, communicate with APIs, create animations, validate forms, and build complete web applications.
+
+It is also the foundation of modern technologies such as **React**, **Next.js**, **Node.js**, and **Express.js**.
+
+---
+
+# 🎯 Why I'm Learning JavaScript
+
+My goal is to become a Full Stack Web Developer who understands the technologies I use instead of relying only on AI-generated code.
+
+I am learning JavaScript because I want to:
+
+- Build interactive websites.
+- Create modern web applications.
+- Understand React and Next.js.
+- Learn backend development with Node.js.
+- Work with APIs.
+- Improve my problem-solving skills.
+- Write code confidently and independently.
+
+---
+
+# 🌍 Where is JavaScript Used?
+
+JavaScript is used in many areas of software development:
+
+- 🌐 Interactive Websites
+- 💻 Web Applications
+- ⚛️ React Applications
+- 🚀 Next.js Applications
+- 🖥️ Backend Development (Node.js)
+- 📡 REST APIs
+- 📱 Mobile Applications (React Native)
+- 🖥️ Desktop Applications (Electron)
+- 🎮 Browser Games
+
+---
+
+# 🧠 Concepts I Understand
 
 - Variables
 - Data Types
 - Operators
+- Conditional Statements (`if`, `else`)
+- Loops (`for`, `while`)
 - Functions
 - Arrays
 - Objects
-- Loops
-- Conditionals
 - DOM Manipulation
 - Events
 - Basic Fetch API
 
 ---
 
-## 📚 Concepts I'm Learning
+# 📚 Concepts I'm Currently Learning
 
-- ES6+
-- Async / Await
+- ES6 Features
+- Arrow Functions
+- Template Literals
+- Destructuring
+- Spread & Rest Operators
 - Promises
-- Modules
+- Async / Await
 - Error Handling
+- Modules
+- Classes
 
 ---
 
-## 💻 Projects Using JavaScript
+# 💻 Projects Where I've Used JavaScript
 
-- Personal Portfolio Website
-- AI E-commerce Chatbot
-- Internship Management Portal
+## 🌐 Personal Portfolio
+
+**Status:** ✅ Completed
+
+### Technologies
+
+- HTML
+- CSS
+- JavaScript
+
+### JavaScript Used For
+
+- Dynamic portfolio content
+- Interactive UI
+- Navigation
+- Responsive behavior
+
+**GitHub Repository:** *(Add link)*
+
+**Live Demo:** *(Add link)*
 
 ---
 
-## 🎯 My Goal
+## 🤖 AI E-commerce Chatbot
 
-I want to understand JavaScript deeply enough to build projects confidently and use React, Next.js, and Node.js effectively.
+**Status:** ✅ Completed
+
+### Technologies
+
+- React
+- JavaScript
+- Node.js
+- Express.js
+- Axios
+- OpenRouter API
+
+### JavaScript Used For
+
+- API communication
+- Dynamic chat interface
+- Product recommendations
+- Frontend interaction
+
+**GitHub Repository:** *(Add link)*
 
 ---
 
-## 📝 Notes
+## 🧮 Calculator
 
-I'll continue updating this file as I learn new concepts and complete more projects.
+**Status:** ✅ Completed
+
+**Completed:** 2025
+
+### Technologies
+
+- HTML
+- CSS
+- JavaScript
+
+### What I Learned
+
+- DOM Manipulation
+- Event Handling
+- Functions
+- User Input Handling
+- Arithmetic Logic
+
+**GitHub Repository:** *(Add link)*
+
+**Live Demo:** *(Add link if deployed)*
+
+---
+
+## 🌦️ Weather Web App
+
+**Status:** 🚧 In Progress
+
+### Technologies
+
+- HTML
+- CSS
+- JavaScript
+
+### Goal
+
+Build a weather application that fetches real-time weather information using a public weather API and displays weather conditions based on user input.
+
+### Current Status
+
+Development is temporarily paused until I replace my laptop drive cable. I plan to continue and complete the project afterward.
+
+---
+
+## 📋 Internship Management Portal
+
+**Status:** 🚧 In Progress
+
+### Technologies
+
+- React
+- JavaScript
+- Supabase
+- SQL
+
+### Learning
+
+- Authentication
+- CRUD Operations
+- Database Integration
+- React Components
+
+> *Source code is currently private while I seek permission to share it publicly.*
+
+---
+
+# 🧪 JavaScript Practice Projects
+
+- ✅ Calculator (2025)
+- 🚧 Weather Web App
+- ⏳ To-do App
+- ⏳ Quiz App
+- ⏳ Expense Tracker
+
+---
+
+# 🐞 Mistakes I Made
+
+I'll continue updating this section throughout my learning journey.
+
+Examples:
+
+- Forgot to use `await` before asynchronous functions.
+- Used `==` instead of `===`.
+- Forgot to check for `null` values.
+- Misspelled variable names.
+- Didn't handle API errors properly.
+
+---
+
+# 💡 Things That Finally Clicked
+
+Whenever I fully understand a concept, I'll document it here.
+
+### July 2026
+
+- Building projects helps me understand JavaScript much better than only watching tutorials.
+- Creating my Developer Journey repository helped me organize my learning process.
+
+---
+
+# 📝 Personal Notes
+
+My learning strategy is simple:
+
+- Build projects.
+- Read documentation.
+- Understand why code works.
+- Learn from mistakes.
+- Document everything I learn.
+- Improve through consistent practice.
+
+---
+
+# 📚 Resources
+
+## Documentation
+
+- MDN Web Docs
+- JavaScript.info
+
+## Practice Platforms
+
+- FreeCodeCamp
+- LeetCode
+- Codewars
+
+## Notes
+
+I'll continue adding useful articles, tutorials, and resources as I learn.
+
+---
+
+# 🎯 Learning Goals
+
+## Short-Term Goals
+
+- [ ] Master JavaScript Fundamentals
+- [ ] Understand ES6 Features
+- [ ] Learn Promises
+- [ ] Master Async / Await
+- [ ] Complete the Weather Web App
+- [ ] Build a To-do App
+
+## Long-Term Goals
+
+- [ ] Build projects confidently without depending heavily on AI.
+- [ ] Master React.
+- [ ] Learn Next.js.
+- [ ] Become a Full Stack Web Developer.
+
+---
+
+# 📅 Revision History
+
+| Date | Update |
+|------|--------|
+| 2025 | Built my first JavaScript Calculator project. |
+| July 2026 | Started developing a Weather Web App. |
+| July 2026 | Created my Developer Journey repository. |
+| July 2026 | Documented my JavaScript learning journey. |
+
+---
+
+# 🚀 Next Steps
+
+- Complete the Weather Web App.
+- Learn Promises and Async/Await.
+- Build a To-do App.
+- Build a Quiz App.
+- Practice JavaScript consistently.
+- Continue documenting everything I learn.
+
+---
+
+> **"Small progress every day builds extraordinary results over time."** 🌱
