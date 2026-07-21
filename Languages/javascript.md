@@ -291,8 +291,19 @@ I'll continue adding useful articles, tutorials, and resources as I learn.
 | July 2026 | Started developing a Weather Web App. |
 | July 2026 | Created my Developer Journey repository. |
 | July 2026 | Documented my JavaScript learning journey. |
+| July 2026 | Revised JavaScript fundamentals and completed the Decision Making section on Coddy.tech. |
 
 ---
+
+# 📖 Learning Journal
+
+## July 21, 2026
+
+Today I revised JavaScript from the beginning and completed the Decision Making section on Coddy.tech.
+
+Instead of rushing ahead, I chose to strengthen my foundation before moving on.
+
+I'm now halfway through the Basic Input & Output section and will continue tomorrow.
 
 # 🚀 Next Steps
 
