@@ -50,32 +50,28 @@ JavaScript is used in many areas of software development:
 
 # 🧠 Concepts I Understand
 
-- Variables
+- Variables (`let`, `const`, `var`)
+- Basic Input & Output
 - Data Types
-- Operators
-- Conditional Statements (`if`, `else`)
-- Loops (`for`, `while`)
-- Functions
-- Arrays
-- Objects
-- DOM Manipulation
-- Events
-- Basic Fetch API
+- Arithmetic Operators
+- Comparison Operators
+- Logical Operators
+- Decision Making (`if`, `else if`, `else`)
 
 ---
 
 # 📚 Concepts I'm Currently Learning
 
+- Loops
+- Functions
+- Arrays
+- Objects
+- Strings
+- DOM Manipulation
+- Events
+- Fetch API
 - ES6 Features
-- Arrow Functions
-- Template Literals
-- Destructuring
-- Spread & Rest Operators
-- Promises
 - Async / Await
-- Error Handling
-- Modules
-- Classes
 
 ---
 
